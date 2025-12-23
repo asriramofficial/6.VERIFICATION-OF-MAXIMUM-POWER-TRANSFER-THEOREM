@@ -65,6 +65,9 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
+<img width="1080" height="1385" alt="image" src="https://github.com/user-attachments/assets/18c2caf8-135a-4c9b-a255-3460142d53c9" />
+
+
 **RESULT:**
 
 Thus maximum power transfer theorem is verified practically and theoretically
